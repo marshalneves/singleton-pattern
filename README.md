@@ -1,6 +1,6 @@
 # Sigleton Pattern
 
-A simple app example implements Singleton Pattern
+A simple application that implements the digleton project pattern
 
 ## Getting Started
 
