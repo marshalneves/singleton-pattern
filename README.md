@@ -1,6 +1,6 @@
-# Webpack Example
+# Sigleton Pattern
 
-A simple webpack app example
+A simple app example implements Singleton Pattern
 
 ## Getting Started
 
