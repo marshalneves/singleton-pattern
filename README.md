@@ -11,6 +11,9 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 npm install
 npm run watch
+open your browser
+open index.html file
+see the console browser
 ```
 ## Contributing
 
