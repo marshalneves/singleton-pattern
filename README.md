@@ -1,6 +1,6 @@
 # Sigleton Pattern
 
-A simple application that implements the digleton project pattern
+A simple application that implements the Sigleton Pattern
 
 ## Getting Started
 
